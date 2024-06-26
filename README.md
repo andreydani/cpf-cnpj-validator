@@ -8,3 +8,4 @@ Current available document:
 - Brazil
   - CPF
   - CNPJ 
+  - CNPJ Alpha Numeric (2026 extension)
